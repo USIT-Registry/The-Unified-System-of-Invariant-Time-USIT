@@ -1,5 +1,7 @@
 # The Unified System of Intentional Thermodynamics (USIT)
 
+### Daniel M. Andreola, Jr. — Independent Researcher
+
 ### First Principles. Eternal Motion.
 
 Every major physical theory begins with a choice about what to take as given. Newton took absolute space and absolute time. Einstein took a curved, four-dimensional spacetime, geometry itself doing the work that force once did. This project takes a third path, older in spirit than either: that space is real, absolute, and infinite in every direction — that it does not bend, stretch, or warp — and that motion is eternal, requiring no first cause, no beginning, no external hand to set it going.
