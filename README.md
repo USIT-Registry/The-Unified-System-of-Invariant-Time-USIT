@@ -1,14 +1,42 @@
-The Unified System of Intentional Thermodynamics (USIT)
-Independent theoretical physics work by Daniel M. Andreola, Jr., developed under the name Unified System of Intentional Thermodynamics (USIT). This repository is self-published and has not undergone independent peer review. See each document's own status notes for what is independently derived versus adopted from established physics.
-The project's current foundation is an absolute-space account of relativistic time dilation and magnetism, built from four explicit postulates and tested, point by point, against independent real-world measurements. It has gone through substantial revision since its earliest documents; see "A note on earlier material" below for what changed and why.
-Current documents
-1. An Absolute-Space Derivation of Relativistic Time Dilation and the Relativistic Origin of Magnetism
-The foundation paper. States four postulates (absolute, infinite, flat 3D space; time as a non-dimensional ordering; eternal motion; a fixed-rate internal signal for every particle) and derives, from them, the standard Lorentz factor, weak-field gravitational time dilation, and the magnetic force between moving charges. Verified numerically against the real GPS relativistic clock correction. Section 6 states plainly that this framework is mathematically equivalent to standard relativity, not a new predictive theory, and explains how curvature-equivalent results are obtained without the underlying 3D space ever being altered.
-2. Empirical Verification Ledger
-A running companion document. Tests the foundation paper's derivations against independent real-world measurements: cosmic-ray muon survival, the Ives-Stilwell experiment (1938), and the Pound-Rebka experiment (1959) are confirmed; the Hafele-Keating experiment (1971) is recorded as attempted and inconclusive, since the necessary flight-path data was not available; Mercury's perihelion precession is substantially resolved, with one piece (the flow-speed mechanism) independently derived from the foundation's own postulates and one piece (the metric/geodesic combination) explicitly labeled as adopted from established, independently-verified physics. Updated as new anchors are tested.
-3. The Manufactured Alternative: How Explanation Can Mistake a Fiction for a Fact
-A standalone essay, separate from the physics project above. Examines a recurring pattern in explanation — presenting a fully determined outcome as though it had been "chosen" from among alternatives that were never actually available — in both a physical case (the principle of least action) and in documented patterns of human reasoning (hindsight bias, the narrative fallacy). This essay does not depend on, and is not part of, the absolute-space foundation; it applies generally.
-A note on earlier material
-Earlier documents developed under the name "Unified System of Intentional Thermodynamics" (USIT), including a manifesto, technical appendices, and related engineering and biological extensions, represent early prototype work. Several core claims in that material — including a fixed "parity threshold" of 1.00 × 10⁻⁴³, mechanisms tying gravity or magnetism directly to a body's rotation or core temperature, and material addressing consciousness — were tested against real data during the development of the documents above and did not hold up, or were never independently derived in the first place. That material is superseded by the three documents listed above and should not be read as representing this project's current position. If earlier material remains visible in this repository, it is retained for historical record only.
-Status and scope
-Every quantitative result in the current foundation paper and ledger is checked against real, independently published measurements, with sources cited. Where a result depends on an established physical principle not derived from the foundation's own four postulates (for example, the equivalence principle, or the metric and geodesic framework), this is stated explicitly at the point of use. Open questions and unresolved gaps are recorded as such, not omitted.
+# The Unified System of Intentional Thermodynamics (USIT)
+
+### First Principles. Eternal Motion.
+
+Every major physical theory begins with a choice about what to take as given. Newton took absolute space and absolute time. Einstein took a curved, four-dimensional spacetime, geometry itself doing the work that force once did. This project takes a third path, older in spirit than either: that space is real, absolute, and infinite in every direction — that it does not bend, stretch, or warp — and that motion is eternal, requiring no first cause, no beginning, no external hand to set it going.
+
+From those two ideas, and two more beside them — that time is not a dimension but an ordering, and that every particle carries within it a perpetual motion running at one fixed, universal rate — this project derives, from first principles, the same relativistic time dilation, the same gravitational clock behavior, and the same magnetic force that a century of curved-spacetime physics has already confirmed. Not by assuming the answer. Not by asserting a target number and working backward to it. By starting from geometry and motion alone, and following the consequences wherever they led.
+
+**This is what makes the difference between a theory and a story: everything here has been checked.**
+
+## What has been tested, and what survived
+
+Four independent, real, published measurements — chosen because they are hard, because they are precise, and because they were never built to be convenient — have been checked against this foundation's derivations, number against number, with no adjustable parameter tuned after the fact to force agreement:
+
+- **The GPS satellite network**, which the entire world relies on every day, requires a relativistic clock correction of +38 microseconds per day to function. This foundation derives +38.5.
+- **Cosmic-ray muons**, unstable particles with a lifetime measured in millionths of a second, should never survive their fall from the upper atmosphere to sea level — and yet they do, by the billions, every day. This foundation's derivation of their extended lifetime matches the observed flux.
+- **The Ives-Stilwell experiment of 1938**, the first direct laboratory measurement of time dilation itself, isolated a wavelength shift of six-hundredths of an angstrom. This foundation predicts 0.0608.
+- **The Pound-Rebka experiment of 1959**, measuring the almost immeasurably small gravitational redshift across a twenty-two-meter tower, found a shift of 2.56 × 10⁻¹⁵. This foundation derives 2.453 × 10⁻¹⁵.
+
+Mercury's perihelion precession — the 43 arcseconds per century that first confirmed General Relativity in 1915, and the hardest test this project has attempted — has been substantially resolved: one piece derived independently from this foundation's own postulates, one piece adopted openly from established, independently-verified physics, and stated as such without concealment.
+
+## Why the failures matter as much as the successes
+
+This project does not hide what did not work. Early attempts tying gravity or magnetism to a body's rotation or core temperature were tested directly against real planetary data — Earth, Venus, Jupiter — and did not survive. They were discarded, not defended. A constant once presented as a universal governing threshold was found to be solved backward from its own target rather than derived from anything real, and it has been abandoned. This is not a weakness of the project. It is the entire method. A theory that cannot fail has not yet been tested; a theory that has been tested and still stands has earned something a confident assertion never can.
+
+## The documents
+
+**[An Absolute-Space Derivation of Relativistic Time Dilation and the Relativistic Origin of Magnetism](./)** — the foundation. Four postulates, stated plainly, and the derivations that follow from them.
+
+**[Empirical Verification Ledger](./)** — the record of every test this foundation has been put through, updated as new ones are run, honest about what passed, what remains inconclusive, and what is still open.
+
+**[The Manufactured Alternative: How Explanation Can Mistake a Fiction for a Fact](./)** — a separate essay on a pattern of reasoning found everywhere from physics to daily judgment: the habit of explaining a determined outcome as though it had been chosen from alternatives that were never actually available.
+
+## What this is not
+
+This is not a claim to have overturned Einstein. Every number this foundation produces, where it has been checked, matches what standard relativity already predicts — this is an alternative derivation of established physics from a different starting point, not yet a new prediction that could be shown to differ from it. That distinction is stated here as plainly as anywhere else in this project, because a theory that will not state its own limits has not earned the right to state its successes either.
+
+This work is self-published and has not undergone independent peer review. It should be read, and judged, accordingly.
+
+## A note on earlier material
+
+This project's earliest documents, developed under this same name, made claims that did not survive testing — among them a fixed numerical threshold, mechanisms tying gravitational or magnetic strength directly to rotation or core heat, and material addressing consciousness. Those claims are not part of the work presented above. They are retained in this repository, where present, as an honest historical record of where this project started and how it was corrected — not as its current position.
