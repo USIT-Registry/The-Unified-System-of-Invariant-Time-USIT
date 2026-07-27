@@ -53,7 +53,7 @@ This project was originally developed and published under the name Unified Syste
 
 This project's earliest documents, developed under its original name, made claims that did not survive testing — among them a fixed numerical threshold, mechanisms tying gravitational or magnetic strength directly to rotation or core heat, and material addressing consciousness. Those claims are not part of the work presented above. They are retained in this repository, where present, as an honest historical record of where this project started and how it was corrected — not as its current position.
 
-Full citations and attributions for every result used in this project are listed in [REFERENCES.md](./REFERENCES.md).
+Full citations and attributions for every result used in this project are listed below.
 
 # References and Attributions
 
