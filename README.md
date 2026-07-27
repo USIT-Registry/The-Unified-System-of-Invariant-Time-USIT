@@ -29,15 +29,15 @@ This project does not hide what did not work. Early attempts tying gravity or ma
 
 ## The documents
 
-**[An Absolute-Space Derivation of Relativistic Time Dilation and the Relativistic Origin of Magnetism](./)** — the foundation. Four postulates, stated plainly, and the derivations that follow from them.
+**An Absolute-Space Derivation of Relativistic Time Dilation and the Relativistic Origin of Magnetism** — the foundation. Four postulates, stated plainly, and the derivations that follow from them.
 
-**[Empirical Verification Ledger](./)** — the record of every test this foundation has been put through, updated as new ones are run, honest about what passed, what remains inconclusive, and what is still open.
+**Empirical Verification Ledger** — the record of every test this foundation has been put through, updated as new ones are run, honest about what passed, what remains inconclusive, and what is still open.
 
-**[The Black Hole Center as Exposed Absolute Space](./)** — a working note applying this foundation to a black hole's interior, with several results checked directly against real measured and photographed black holes.
+**The Black Hole Center as Exposed Absolute Space** — a working note applying this foundation to a black hole's interior, with several results checked directly against real measured and photographed black holes.
 
-**[Newton's Headache, Resolved](./)** — real numerical simulations of the Sun-Earth-Moon and Jupiter-moon systems, built using standard Newtonian mechanics rather than this project's own postulates, and explicitly labeled as such.
+**Newton's Headache, Resolved** — real numerical simulations of the Sun-Earth-Moon and Jupiter-moon systems, built using standard Newtonian mechanics rather than this project's own postulates, and explicitly labeled as such.
 
-**[The Manufactured Alternative: How Explanation Can Mistake a Fiction for a Fact](./)** — a separate essay, not part of this project's physics, on a pattern of reasoning found everywhere from physics to daily judgment: the habit of explaining a determined outcome as though it had been chosen from alternatives that were never actually available.
+**The Manufactured Alternative: How Explanation Can Mistake a Fiction for a Fact** — a separate essay, not part of this project's physics, on a pattern of reasoning found everywhere from physics to daily judgment: the habit of explaining a determined outcome as though it had been chosen from alternatives that were never actually available.
 
 ## What this is not
 
