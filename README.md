@@ -52,7 +52,10 @@ This project was originally developed and published under the name Unified Syste
 ## A note on earlier material
 
 This project's earliest documents, developed under its original name, made claims that did not survive testing — among them a fixed numerical threshold, mechanisms tying gravitational or magnetic strength directly to rotation or core heat, and material addressing consciousness. Those claims are not part of the work presented above. They are retained in this repository, where present, as an honest historical record of where this project started and how it was corrected — not as its current position.
-## References
+
+Full citations and attributions for every result used in this project are listed in [REFERENCES.md](./REFERENCES.md).
+
+# References and Attributions
 
 The results in this project's documents were checked directly against the following sources.
 
@@ -165,3 +168,4 @@ Pierre Louis Maupertuis (1744); Leonhard Euler; Joseph-Louis Lagrange; William R
 
 **Hindsight bias and the narrative fallacy**
 Daniel Kahneman and Amos Tversky, foundational work on heuristics and biases; Daniel Kahneman, *Thinking, Fast and Slow*, 2011; Nassim Nicholas Taleb, *The Black Swan*, 2007.
+
