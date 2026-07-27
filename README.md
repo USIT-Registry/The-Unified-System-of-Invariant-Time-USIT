@@ -96,4 +96,72 @@ The results in this project's documents were checked directly against the follow
 - Clay Mathematics Institute, *Navier-Stokes Existence and Smoothness* (Millennium Prize Problem statement).
 - Hou, T. Y. and Luo, G. (2014) and subsequent work (Chen, Hou, Huang, 2021-2022) on finite-time blow-up for the 3D Euler equations.
 - Choi, K., Hou, T. Y., Kiselev, A., Luo, G., Sverak, V., and Yao, Y. — 1D model for the 3D axisymmetric Euler equations.
-- 
+## Formulas and Results Used, and Who Established Them First
+
+This project builds on a number of already-established results, borrowed openly rather than re-derived from scratch. In the spirit of this project's standing commitment to distinguish what is original from what is adopted, each major formula or result used in this work is listed below with who first established it and where it can be verified.
+
+**The Lorentz factor, γ = 1/√(1−v²/c²)**
+First derived by Hendrik Lorentz (1892, 1904) and Henri Poincaré (1905) in the context of electron theory and electrodynamics; given its now-standard interpretation by Albert Einstein, *Zur Elektrodynamik bewegter Körper*, Annalen der Physik, 1905. This project's Section 2 derives the identical factor independently, via a light-clock geometric argument, rather than adopting the formula directly.
+
+**The equivalence principle**
+First proposed by Albert Einstein (1907, 1911), and central to General Relativity (1915). Used in this project's Section 3 to obtain gravitational time dilation; adopted directly, not independently re-derived.
+
+**Gravitational time dilation, Δf/f = ΔU/c²**
+A direct consequence of the equivalence principle, confirmed experimentally by Robert Pound and Glen Rebka, *Apparent Weight of Photons*, Physical Review Letters, 1959 (measured at Harvard's Jefferson Physical Laboratory).
+
+**GPS relativistic clock correction (+38 μs/day)**
+Established by Neil Ashby, *Relativity in the Global Positioning System*, Living Reviews in Relativity, 2003; and Ashby, N. and Weiss, M., NIST technical documentation.
+
+**Muon time dilation confirming γ**
+Bruno Rossi and David Hall, *Variation of the Rate of Decay of Mesotrons with Momentum*, Physical Review, 1941; David Frisch and James Smith, *Measurement of the Relativistic Time Dilation Using μ-Mesons*, American Journal of Physics, 1963.
+
+**Transverse Doppler time dilation**
+Herbert Ives and G. R. Stilwell, *An Experimental Study of the Rate of a Moving Atomic Clock*, Journal of the Optical Society of America, 1938.
+
+**Magnetism as a relativistic effect of charge**
+Edward M. Purcell, *Electricity and Magnetism*, Berkeley Physics Course Vol. 2, 1965 — the derivation this project's Section 5 follows.
+
+**The Schwarzschild solution and event horizon (r = 2GM/c²)**
+Karl Schwarzschild, *Über das Gravitationsfeld eines Massenpunktes*, 1916 — the first exact solution to Einstein's field equations for a spherical mass. This project's working note derives the same horizon radius independently, from its own flow-speed relation and fixed-rate postulate, and separately confirms it matches Schwarzschild's result.
+
+**The "river model" of gravity (space flowing at v = √(2GM/r))**
+Andrew Hamilton and Jason Lisle, *The River Model of Black Holes*, American Journal of Physics 76, 519 (2008) — an exact reformulation of Schwarzschild geometry. This project's flow-speed relation was derived independently using energy conservation and a zero-flow-at-infinity boundary condition, and found to match Hamilton and Lisle's established result.
+
+**Mercury's perihelion precession (43.03 arcsec/century)**
+First correctly predicted by Albert Einstein (1915) as a triumph of General Relativity, resolving a discrepancy first identified by Urbain Le Verrier (1859).
+
+**The Kerr solution and rotating black holes**
+Roy Kerr, *Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics*, Physical Review Letters, 1963.
+
+**The innermost stable circular orbit (ISCO) formula for a spinning black hole**
+James Bardeen, William Press, and Saul Teukolsky, *Rotating Black Holes: Locally Nonrotating Frames, Energy Extraction, and Scalar Synchrotron Radiation*, Astrophysical Journal, 1972.
+
+**Cygnus X-1 mass and spin measurement**
+James Miller-Jones et al., *Cygnus X-1 mass and spin measurement*, Science, 2021.
+
+**The photographed photon ring (Event Horizon Telescope, M87)**
+Event Horizon Telescope Collaboration, *First M87 Event Horizon Telescope Results*, Astrophysical Journal Letters, 2019.
+
+**Tidal Torque Theory (the origin of rotation in collapsing matter)**
+Fred Hoyle (1949); P. J. E. Peebles (1969); A. G. Doroshkevich (1970). Recent direct observational confirmation: arXiv:2512.11383 (December 2025).
+
+**Two-temperature accretion flow models**
+Stuart Shapiro, Alan Lightman, and Douglas Eardley (1976); Ramesh Narayan and Insu Yi (1994-95).
+
+**The three-body problem's non-integrability**
+Henri Poincaré, *Sur le problème des trois corps et les équations de la dynamique*, 1890.
+
+**A convergent series solution to the three-body problem**
+Karl Sundman, *Mémoire sur le problème des trois corps*, 1912 (shown by later analysis, including Djerrick Belorizky, to converge too slowly to be practically useful).
+
+**The Beale-Kato-Majda blow-up criterion (Navier-Stokes/Euler)**
+J. T. Beale, T. Kato, and A. Majda, *Remarks on the Breakdown of Smooth Solutions for the 3-D Euler Equations*, Communications in Mathematical Physics, 1984.
+
+**Numerical evidence for finite-time blow-up (3D Euler equations)**
+Thomas Hou and Guo Luo (2014); rigorously confirmed by Jiajie Chen, Thomas Hou, and collaborators (2021-2022).
+
+**The principle of least action and its interpretive history**
+Pierre Louis Maupertuis (1744); Leonhard Euler; Joseph-Louis Lagrange; William Rowan Hamilton. Interpretive concerns discussed by Henri Poincaré and Max Planck; modern treatment by Vladislav Terekhovich (2017) and Michael Stöltzner (1994, 2003).
+
+**Hindsight bias and the narrative fallacy**
+Daniel Kahneman and Amos Tversky, foundational work on heuristics and biases; Daniel Kahneman, *Thinking, Fast and Slow*, 2011; Nassim Nicholas Taleb, *The Black Swan*, 2007.
