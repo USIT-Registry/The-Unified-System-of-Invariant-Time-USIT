@@ -35,6 +35,10 @@ This project does not hide what did not work. Early attempts tying gravity or ma
 
 **The Black Hole Center as Exposed Absolute Space** — a working note applying this foundation to a black hole's interior, with several results checked directly against real measured and photographed black holes.
 
+**A First-Principles Investigation of Gravitational Radiation** — a working document, still in progress, addressing whether this foundation's postulates can account for the full magnitude of gravitational-wave energy loss in binary pulsar systems (the historical Hulse-Taylor system). The shape of the radiation and roughly five-sixths of its magnitude have been derived and cross-validated against two independent, real binary pulsar systems; the remaining piece — the precise strength of a specific nuclear-physics coupling — is honestly reported as open.
+
+**Mass, Density, and the Limits of Newtonian Inertia** — a working document deriving atomic size and density from first principles, matching the real, measured Bohr radius to six significant figures, and independently reconstructing mass-energy equivalence from this foundation's own postulates. A separate hypothesis attempting to derive Newton's second law itself was tested rigorously, found circular, and closed; the underlying question — why mass produces resistance to acceleration at all — is reported as a genuinely open problem in physics broadly, not unique to this foundation.
+
 **Newton's Headache, Resolved** — real numerical simulations of the Sun-Earth-Moon and Jupiter-moon systems, built using standard Newtonian mechanics rather than this project's own postulates, and explicitly labeled as such.
 
 **The Manufactured Alternative: How Explanation Can Mistake a Fiction for a Fact** — a separate essay, not part of this project's physics, on a pattern of reasoning found everywhere from physics to daily judgment: the habit of explaining a determined outcome as though it had been chosen from alternatives that were never actually available.
@@ -85,6 +89,23 @@ The results in this project's documents were checked directly against the follow
 - arXiv:2512.11383 (December 2025) — recent observational confirmation of Tidal Torque Theory via galaxy angular momentum correlation with primordial density fields.
 - Shapiro, S. L., Lightman, A. P., and Eardley, D. M. (1976); Narayan, R. and Yi, I. (1994-95) — two-temperature (ADAF) accretion flow models.
 
+**Gravitational radiation and binary pulsars**
+- Hulse, R. A. and Taylor, J. H. (1975); Weisberg, J. M. and Taylor, J. H. (2002); Weisberg, J. M. and Huang, Y. (2016) — timing observations of PSR B1913+16.
+- Kramer, M. (1998) — geodetic precession and orbital geometry of PSR B1913+16.
+- Alpar, M. A., Langer, S. A., and Sauls, J. A. (1984) — neutron star crust-core coupling.
+- Andersson, N., Sidery, T., and Comer, G. L. (2006) — mutual friction in superfluid neutron stars.
+- Chamel, N. and Haensel, P. (2006, 2008, 2024) — neutron star crust entrainment.
+- de Gennes, P. G. and Prost, J. (1993) — liquid crystal order-parameter tensor structure, used as an independent cross-check on the required tensor form of the radiation.
+
+**Mass, density, and inertia**
+- Bohr, N. (1913), *On the Constitution of Atoms and Molecules*, Philosophical Magazine.
+- Noether, E. (1918), *Invariante Variationsprobleme*, Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen.
+- Einstein, A. (1905), *Does the Inertia of a Body Depend Upon Its Energy-Content?*, Annalen der Physik.
+- Abraham, M. (1903), *Prinzipien der Dynamik des Elektrons*, Annalen der Physik — the electromagnetic mass program and its "4/3 problem," used as a historical parallel.
+- Poincaré, H. (1906), *Sur la dynamique de l'électron*, Rendiconti del Circolo Matematico di Palermo.
+- Krane, K. S. (1988), *Introductory Nuclear Physics*, Wiley — real nuclear radius scaling data.
+- CODATA (2018) — recommended values of the fundamental physical constants.
+
 **The three-body problem and orbital dynamics**
 - Poincaré, H. (1890), *Sur le problème des trois corps et les équations de la dynamique*.
 - Sundman, K. F. (1912), *Mémoire sur le problème des trois corps*.
@@ -99,6 +120,7 @@ The results in this project's documents were checked directly against the follow
 - Clay Mathematics Institute, *Navier-Stokes Existence and Smoothness* (Millennium Prize Problem statement).
 - Hou, T. Y. and Luo, G. (2014) and subsequent work (Chen, Hou, Huang, 2021-2022) on finite-time blow-up for the 3D Euler equations.
 - Choi, K., Hou, T. Y., Kiselev, A., Luo, G., Sverak, V., and Yao, Y. — 1D model for the 3D axisymmetric Euler equations.
+
 ## Formulas and Results Used, and Who Established Them First
 
 This project builds on a number of already-established results, borrowed openly rather than re-derived from scratch. In the spirit of this project's standing commitment to distinguish what is original from what is adopted, each major formula or result used in this work is listed below with who first established it and where it can be verified.
@@ -151,6 +173,18 @@ Fred Hoyle (1949); P. J. E. Peebles (1969); A. G. Doroshkevich (1970). Recent di
 **Two-temperature accretion flow models**
 Stuart Shapiro, Alan Lightman, and Douglas Eardley (1976); Ramesh Narayan and Insu Yi (1994-95).
 
+**Gravitational radiation and the Hulse-Taylor binary pulsar**
+Russell Hulse and Joseph Taylor, discovery of PSR B1913+16, 1975; Joel Weisberg and Joseph Taylor, *General Relativistic Geodetic Spin Precession in Binary Pulsar B1913+16*, Astrophysical Journal, 2002; Weisberg, J. M. and Huang, Y., *Relativistic Measurements from Timing the Binary Pulsar PSR B1913+16*, Astrophysical Journal, 2016.
+
+**Neutron star crust-core coupling and entrainment**
+Alpar, M. A., Langer, S. A., and Sauls, J. A. (1984); Andersson, N., Sidery, T., and Comer, G. L. (2006); Chamel, N. and Haensel, P. (2006, 2008, 2024).
+
+**Mass-energy equivalence**
+Albert Einstein, *Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?*, Annalen der Physik, 1905. This project's inertia document independently reconstructs the same relation from its own postulates via momentum conservation, rather than adopting it directly.
+
+**The electromagnetic mass program and the "4/3 problem"**
+Max Abraham, *Prinzipien der Dynamik des Elektrons*, Annalen der Physik, 1903; Henri Poincaré, *Sur la dynamique de l'électron*, Rendiconti del Circolo Matematico di Palermo, 1906 — historical precedent cited in this project's inertia document for a documented pattern of incorrect intermediate coefficients preceding an eventual correct result.
+
 **The three-body problem's non-integrability**
 Henri Poincaré, *Sur le problème des trois corps et les équations de la dynamique*, 1890.
 
@@ -167,5 +201,4 @@ Thomas Hou and Guo Luo (2014); rigorously confirmed by Jiajie Chen, Thomas Hou, 
 Pierre Louis Maupertuis (1744); Leonhard Euler; Joseph-Louis Lagrange; William Rowan Hamilton. Interpretive concerns discussed by Henri Poincaré and Max Planck; modern treatment by Vladislav Terekhovich (2017) and Michael Stöltzner (1994, 2003).
 
 **Hindsight bias and the narrative fallacy**
-Daniel Kahneman and Amos Tversky, foundational work on heuristics and biases; Daniel Kahneman, *Thinking, Fast and Slow*, 2011; Nassim Nicholas Taleb, *The Black Swan*, 2007.
-
+Daniel Kahneman and Amos Tversky, foundational work on h
